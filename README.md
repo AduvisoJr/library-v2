@@ -8,7 +8,7 @@ The project titled Library Management System is Library management software for 
 
 2. Open XAMPP Control panal and start [apache] and [mysql] .
 
-3. Download project from github(https://github.com/SatyamSoni23/Library-Management-System) 
+3. Download project from github.
     
 4. Extract files in C:\\xampp\htdocs\.
 
@@ -24,7 +24,7 @@ The project titled Library Management System is Library management software for 
 
 10. If you like to edit table names, id format as your wise,  you can edit at studRegistration.php
 
-11. Open any browser and type http://localhost/ Library-Management-System.
+11. Open any browser and type http://localhost/Library-Management-System.
 
 # Screenshots
 
