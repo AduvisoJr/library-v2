@@ -26,13 +26,4 @@ The project titled Library Management System is Library management software for 
 
 11. Open any browser and type http://localhost/Library-Management-System.
 
-# Screenshots
-
-![Image of adduser](https://github.com/SatyamSoni23/Library-Management-System/blob/master/Screenshots/home.JPG)
-![Image of adduser](https://github.com/SatyamSoni23/Library-Management-System/blob/master/Screenshots/register.JPG)
-![Image of adduser](https://github.com/SatyamSoni23/Library-Management-System/blob/master/Screenshots/stud.JPG)
-![Image of adduser](https://github.com/SatyamSoni23/Library-Management-System/blob/master/Screenshots/add%20books.JPG)
-![Image of adduser](https://github.com/SatyamSoni23/Library-Management-System/blob/master/Screenshots/search.JPG)
-![Image of adduser](https://github.com/SatyamSoni23/Library-Management-System/blob/master/Screenshots/submission.JPG)
-
 ##  If you like my project hit a star button
